@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gabriel.st.martins@gmail.com
+	name = Gabriel Martins
